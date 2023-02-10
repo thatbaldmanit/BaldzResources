@@ -1,0 +1,9 @@
+128, 64, 32, 16, 8, 4, 2, 1
+
+You are given a IPv4 address of 192.168.0.0/24. Your manager asked you to subnet this network to supply 4 teams with IP addresses:
+The 4 teams are:
+IT:		Sales:		HR:		Engineering:
+NID		NID:		NID:		NID:
+FHOST:		FHOST:		FHOST:		FHOST:
+LHOST:		LHOST:		LHOST:		LHOST:
+Broadcast:	
